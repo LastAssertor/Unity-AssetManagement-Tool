@@ -2,6 +2,9 @@
 
  基于Unity-5.6.7实现的一个资源管理系统
 
+### Require
+- [AssetBundles Browser](https://github.com/Unity-Technologies/AssetBundles-Browser)
+
 ```
 特点：
 
