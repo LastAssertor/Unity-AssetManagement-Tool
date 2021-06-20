@@ -8,7 +8,7 @@ namespace UnityAssetManagementTool {
 
     public static class ExportAssetBundleManifest {
 
-        [@MenuItem("Assets/UnityAssetManagementTool/1.预处理（导出AssetBundleManifest.txt）", false, 5010)]
+        [@MenuItem("Assets/Unity-AssetManagement-Tool/1.预处理（导出AssetBundleManifest.txt）", false, 5010)]
         public static void Export() {
 
             var guids = AssetDatabase.FindAssets("t:UnityAssetManagementTool.Settings");

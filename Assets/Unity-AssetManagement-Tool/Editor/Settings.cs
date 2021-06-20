@@ -9,7 +9,7 @@ using System.Text;
 
 namespace UnityAssetManagementTool {
 
-    [CreateAssetMenu(fileName = "Settings.asset", menuName = "UnityAssetManagementTool/Settings")]
+    [CreateAssetMenu(fileName = "Settings.asset", menuName = "Unity-AssetManagement-Tool/Settings")]
     public class Settings : ScriptableObject {
 
         public string inputPath = "Assets/StreamingAssets/StandaloneOSXUniversal";
