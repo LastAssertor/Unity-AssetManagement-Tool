@@ -2,7 +2,7 @@
 
 // File : ObjectPool.cs
 // Date : 2019.7.17
-// Modified by : assertorz
+// Modified by : LastAssertor
 // Contact: assertor@qq.com
 // Descriptions : the origin source is from the web site http://source.roslyn.codeplex.com/#Microsoft.CodeAnalysis.Workspaces/ObjectPool%25601.cs
 
